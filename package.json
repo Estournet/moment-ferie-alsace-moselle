@@ -1,6 +1,6 @@
 {
   "name": "moment-ferie-alsace-moselle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An extension to moment.js that handles working days in Alsace Moselle",
   "main": "moment-ferie-alsace-moselle.js",
   "scripts": {
